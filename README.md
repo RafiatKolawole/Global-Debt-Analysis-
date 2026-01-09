@@ -26,4 +26,4 @@ The analysis focuses on central government debt, general government debt, privat
 This analysis demonstrates how global crises significantly influence borrowing behavior, fiscal policy decisions, and long-term debt sustainability. It also highlights the interconnected nature of the global economy.
 
 ## Dashboard Preview
-*(Insert Power BI dashboard screenshots here)*
+![Dashboard Preview](IMG_5730.jpeg)
